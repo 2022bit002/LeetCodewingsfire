@@ -32,9 +32,18 @@ This repository contain the question solved by me on the leetcode.
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0242-valid-anagram) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/2022bit002/LeetCodewingsfire/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Counting
 |  |
 | ------- |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/2022bit002/LeetCodewingsfire/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
