@@ -19,6 +19,7 @@ This repository contain the question solved by me on the leetcode.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0001-two-sum) |
 | [0287-find-the-duplicate-number](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0287-find-the-duplicate-number) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/2022bit002/LeetCodewingsfire/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Two Pointers
@@ -41,6 +42,7 @@ This repository contain the question solved by me on the leetcode.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0242-valid-anagram) |
 ## String
 |  |
