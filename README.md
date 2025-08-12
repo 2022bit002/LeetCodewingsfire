@@ -20,6 +20,7 @@ This repository contain the question solved by me on the leetcode.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0169-majority-element) |
@@ -33,6 +34,7 @@ This repository contain the question solved by me on the leetcode.
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0033-search-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
