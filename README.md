@@ -29,6 +29,7 @@ This repository contain the question solved by me on the leetcode.
 | [0287-find-the-duplicate-number](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0287-find-the-duplicate-number) |
 | [1127-last-stone-weight](https://github.com/2022bit002/LeetCodewingsfire/tree/master/1127-last-stone-weight) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/2022bit002/LeetCodewingsfire/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
+| [3226-minimum-number-game](https://github.com/2022bit002/LeetCodewingsfire/tree/master/3226-minimum-number-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -45,6 +46,7 @@ This repository contain the question solved by me on the leetcode.
 | [0169-majority-element](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0242-valid-anagram) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/2022bit002/LeetCodewingsfire/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
+| [3226-minimum-number-game](https://github.com/2022bit002/LeetCodewingsfire/tree/master/3226-minimum-number-game) |
 ## Counting
 |  |
 | ------- |
@@ -84,4 +86,9 @@ This repository contain the question solved by me on the leetcode.
 |  |
 | ------- |
 | [1127-last-stone-weight](https://github.com/2022bit002/LeetCodewingsfire/tree/master/1127-last-stone-weight) |
+| [3226-minimum-number-game](https://github.com/2022bit002/LeetCodewingsfire/tree/master/3226-minimum-number-game) |
+## Simulation
+|  |
+| ------- |
+| [3226-minimum-number-game](https://github.com/2022bit002/LeetCodewingsfire/tree/master/3226-minimum-number-game) |
 <!---LeetCode Topics End-->
