@@ -60,6 +60,7 @@ This repository contain the question solved by me on the leetcode.
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0242-valid-anagram) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/2022bit002/LeetCodewingsfire/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -74,6 +75,7 @@ This repository contain the question solved by me on the leetcode.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0042-trapping-rain-water) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/2022bit002/LeetCodewingsfire/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
