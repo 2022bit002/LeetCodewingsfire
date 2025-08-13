@@ -7,6 +7,7 @@ This repository contain the question solved by me on the leetcode.
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0326-power-of-three) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -16,6 +17,7 @@ This repository contain the question solved by me on the leetcode.
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0326-power-of-three) |
 ## Array
 |  |
 | ------- |
