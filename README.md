@@ -27,6 +27,7 @@ This repository contain the question solved by me on the leetcode.
 | [0053-maximum-subarray](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0287-find-the-duplicate-number) |
+| [1127-last-stone-weight](https://github.com/2022bit002/LeetCodewingsfire/tree/master/1127-last-stone-weight) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/2022bit002/LeetCodewingsfire/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Two Pointers
 |  |
@@ -77,4 +78,8 @@ This repository contain the question solved by me on the leetcode.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0042-trapping-rain-water) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1127-last-stone-weight](https://github.com/2022bit002/LeetCodewingsfire/tree/master/1127-last-stone-weight) |
 <!---LeetCode Topics End-->
