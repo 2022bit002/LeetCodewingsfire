@@ -8,16 +8,19 @@ This repository contain the question solved by me on the leetcode.
 | ------- |
 | [0231-power-of-two](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0342-power-of-four) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0342-power-of-four) |
 ## Array
 |  |
 | ------- |
