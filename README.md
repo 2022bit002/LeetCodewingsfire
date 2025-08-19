@@ -9,6 +9,7 @@ This repository contain the question solved by me on the leetcode.
 | [0231-power-of-two](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0342-power-of-four) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/2022bit002/LeetCodewingsfire/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -32,6 +33,7 @@ This repository contain the question solved by me on the leetcode.
 | [0287-find-the-duplicate-number](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0287-find-the-duplicate-number) |
 | [1127-last-stone-weight](https://github.com/2022bit002/LeetCodewingsfire/tree/master/1127-last-stone-weight) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/2022bit002/LeetCodewingsfire/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/2022bit002/LeetCodewingsfire/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3226-minimum-number-game](https://github.com/2022bit002/LeetCodewingsfire/tree/master/3226-minimum-number-game) |
 ## Two Pointers
 |  |
