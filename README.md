@@ -35,6 +35,7 @@ This repository contain the question solved by me on the leetcode.
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/2022bit002/LeetCodewingsfire/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/2022bit002/LeetCodewingsfire/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3226-minimum-number-game](https://github.com/2022bit002/LeetCodewingsfire/tree/master/3226-minimum-number-game) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/2022bit002/LeetCodewingsfire/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Two Pointers
 |  |
 | ------- |
@@ -52,6 +53,7 @@ This repository contain the question solved by me on the leetcode.
 | [0242-valid-anagram](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0242-valid-anagram) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/2022bit002/LeetCodewingsfire/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [3226-minimum-number-game](https://github.com/2022bit002/LeetCodewingsfire/tree/master/3226-minimum-number-game) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/2022bit002/LeetCodewingsfire/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Counting
 |  |
 | ------- |
@@ -97,4 +99,8 @@ This repository contain the question solved by me on the leetcode.
 |  |
 | ------- |
 | [3226-minimum-number-game](https://github.com/2022bit002/LeetCodewingsfire/tree/master/3226-minimum-number-game) |
+## Greedy
+|  |
+| ------- |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/2022bit002/LeetCodewingsfire/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 <!---LeetCode Topics End-->
