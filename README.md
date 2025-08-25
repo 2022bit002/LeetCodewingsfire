@@ -87,6 +87,7 @@ This repository contain the question solved by me on the leetcode.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0094-binary-tree-inorder-traversal) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/2022bit002/LeetCodewingsfire/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
@@ -109,4 +110,16 @@ This repository contain the question solved by me on the leetcode.
 |  |
 | ------- |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/2022bit002/LeetCodewingsfire/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
