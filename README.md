@@ -10,6 +10,7 @@ This repository contain the question solved by me on the leetcode.
 | [0326-power-of-three](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0342-power-of-four) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/2022bit002/LeetCodewingsfire/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3830-find-closest-person](https://github.com/2022bit002/LeetCodewingsfire/tree/master/3830-find-closest-person) |
 ## Bit Manipulation
 |  |
 | ------- |
