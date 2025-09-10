@@ -42,6 +42,7 @@ This repository contain the question solved by me on the leetcode.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0042-trapping-rain-water) |
+| [0151-reverse-words-in-a-string](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
@@ -70,6 +71,7 @@ This repository contain the question solved by me on the leetcode.
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0242-valid-anagram) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/2022bit002/LeetCodewingsfire/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/2022bit002/LeetCodewingsfire/tree/master/2346-largest-3-same-digit-number-in-string) |
