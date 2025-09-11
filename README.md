@@ -28,6 +28,7 @@ This repository contain the question solved by me on the leetcode.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0053-maximum-subarray) |
@@ -43,6 +44,7 @@ This repository contain the question solved by me on the leetcode.
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0189-rotate-array) |
