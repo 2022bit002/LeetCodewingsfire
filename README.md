@@ -6,6 +6,7 @@ This repository contain the question solved by me on the leetcode.
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0342-power-of-four) |
@@ -31,6 +32,7 @@ This repository contain the question solved by me on the leetcode.
 | [0042-trapping-rain-water](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0287-find-the-duplicate-number) |
 | [1127-last-stone-weight](https://github.com/2022bit002/LeetCodewingsfire/tree/master/1127-last-stone-weight) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/2022bit002/LeetCodewingsfire/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -43,6 +45,7 @@ This repository contain the question solved by me on the leetcode.
 | ------- |
 | [0042-trapping-rain-water](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
