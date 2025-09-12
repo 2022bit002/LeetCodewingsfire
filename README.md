@@ -35,6 +35,7 @@ This repository contain the question solved by me on the leetcode.
 | [0169-majority-element](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0287-find-the-duplicate-number) |
+| [0643-maximum-average-subarray-i](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0643-maximum-average-subarray-i) |
 | [1127-last-stone-weight](https://github.com/2022bit002/LeetCodewingsfire/tree/master/1127-last-stone-weight) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/2022bit002/LeetCodewingsfire/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/2022bit002/LeetCodewingsfire/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -119,6 +120,7 @@ This repository contain the question solved by me on the leetcode.
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0643-maximum-average-subarray-i) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/2022bit002/LeetCodewingsfire/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Tree
 |  |
