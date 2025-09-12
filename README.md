@@ -11,6 +11,7 @@ This repository contain the question solved by me on the leetcode.
 | [0326-power-of-three](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0342-power-of-four) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/2022bit002/LeetCodewingsfire/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3462-vowels-game-in-a-string](https://github.com/2022bit002/LeetCodewingsfire/tree/master/3462-vowels-game-in-a-string) |
 | [3830-find-closest-person](https://github.com/2022bit002/LeetCodewingsfire/tree/master/3830-find-closest-person) |
 ## Bit Manipulation
 |  |
@@ -84,6 +85,7 @@ This repository contain the question solved by me on the leetcode.
 | [0242-valid-anagram](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0242-valid-anagram) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/2022bit002/LeetCodewingsfire/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/2022bit002/LeetCodewingsfire/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [3462-vowels-game-in-a-string](https://github.com/2022bit002/LeetCodewingsfire/tree/master/3462-vowels-game-in-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -161,4 +163,12 @@ This repository contain the question solved by me on the leetcode.
 | [0102-binary-tree-level-order-traversal](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0226-invert-binary-tree) |
+## Brainteaser
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/2022bit002/LeetCodewingsfire/tree/master/3462-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/2022bit002/LeetCodewingsfire/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
