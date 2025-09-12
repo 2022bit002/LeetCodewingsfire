@@ -32,6 +32,7 @@ This repository contain the question solved by me on the leetcode.
 | [0033-search-in-rotated-sorted-array](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0053-maximum-subarray) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0287-find-the-duplicate-number) |
@@ -48,12 +49,14 @@ This repository contain the question solved by me on the leetcode.
 | [0031-next-permutation](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0033-search-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
