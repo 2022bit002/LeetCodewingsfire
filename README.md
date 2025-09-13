@@ -32,6 +32,7 @@ This repository contain the question solved by me on the leetcode.
 | [0001-two-sum](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0033-search-in-rotated-sorted-array) |
+| [0041-first-missing-positive](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0053-maximum-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -79,6 +80,7 @@ This repository contain the question solved by me on the leetcode.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0242-valid-anagram) |
 ## String
