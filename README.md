@@ -76,6 +76,7 @@ This repository contain the question solved by me on the leetcode.
 | ------- |
 | [0169-majority-element](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0169-majority-element) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/2022bit002/LeetCodewingsfire/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/2022bit002/LeetCodewingsfire/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,6 +84,7 @@ This repository contain the question solved by me on the leetcode.
 | [0041-first-missing-positive](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0242-valid-anagram) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/2022bit002/LeetCodewingsfire/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
 | ------- |
@@ -91,6 +93,7 @@ This repository contain the question solved by me on the leetcode.
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/2022bit002/LeetCodewingsfire/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/2022bit002/LeetCodewingsfire/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3462-vowels-game-in-a-string](https://github.com/2022bit002/LeetCodewingsfire/tree/master/3462-vowels-game-in-a-string) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/2022bit002/LeetCodewingsfire/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Divide and Conquer
 |  |
 | ------- |
