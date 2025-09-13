@@ -10,6 +10,7 @@ This repository contain the question solved by me on the leetcode.
 | [0231-power-of-two](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0342-power-of-four) |
+| [0946-smallest-range-ii](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0946-smallest-range-ii) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/2022bit002/LeetCodewingsfire/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3462-vowels-game-in-a-string](https://github.com/2022bit002/LeetCodewingsfire/tree/master/3462-vowels-game-in-a-string) |
 | [3830-find-closest-person](https://github.com/2022bit002/LeetCodewingsfire/tree/master/3830-find-closest-person) |
@@ -38,6 +39,7 @@ This repository contain the question solved by me on the leetcode.
 | [0189-rotate-array](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0287-find-the-duplicate-number) |
 | [0643-maximum-average-subarray-i](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0643-maximum-average-subarray-i) |
+| [0946-smallest-range-ii](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0946-smallest-range-ii) |
 | [1127-last-stone-weight](https://github.com/2022bit002/LeetCodewingsfire/tree/master/1127-last-stone-weight) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/2022bit002/LeetCodewingsfire/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/2022bit002/LeetCodewingsfire/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -64,6 +66,7 @@ This repository contain the question solved by me on the leetcode.
 | ------- |
 | [0169-majority-element](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0242-valid-anagram) |
+| [0946-smallest-range-ii](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0946-smallest-range-ii) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/2022bit002/LeetCodewingsfire/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [3226-minimum-number-game](https://github.com/2022bit002/LeetCodewingsfire/tree/master/3226-minimum-number-game) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/2022bit002/LeetCodewingsfire/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -121,6 +124,7 @@ This repository contain the question solved by me on the leetcode.
 ## Greedy
 |  |
 | ------- |
+| [0946-smallest-range-ii](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0946-smallest-range-ii) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/2022bit002/LeetCodewingsfire/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Sliding Window
 |  |
