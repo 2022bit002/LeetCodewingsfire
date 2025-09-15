@@ -84,12 +84,14 @@ This repository contain the question solved by me on the leetcode.
 | [0041-first-missing-positive](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0242-valid-anagram) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/2022bit002/LeetCodewingsfire/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/2022bit002/LeetCodewingsfire/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0242-valid-anagram) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/2022bit002/LeetCodewingsfire/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/2022bit002/LeetCodewingsfire/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/2022bit002/LeetCodewingsfire/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3462-vowels-game-in-a-string](https://github.com/2022bit002/LeetCodewingsfire/tree/master/3462-vowels-game-in-a-string) |
