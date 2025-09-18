@@ -30,6 +30,7 @@ This repository contain the question solved by me on the leetcode.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0041-first-missing-positive) |
@@ -89,6 +90,7 @@ This repository contain the question solved by me on the leetcode.
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0242-valid-anagram) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/2022bit002/LeetCodewingsfire/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -182,4 +184,8 @@ This repository contain the question solved by me on the leetcode.
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/2022bit002/LeetCodewingsfire/tree/master/3462-vowels-game-in-a-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
