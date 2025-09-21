@@ -41,6 +41,7 @@ This repository contain the question solved by me on the leetcode.
 | [0189-rotate-array](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0287-find-the-duplicate-number) |
 | [0643-maximum-average-subarray-i](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0724-find-pivot-index) |
 | [0946-smallest-range-ii](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0946-smallest-range-ii) |
 | [1127-last-stone-weight](https://github.com/2022bit002/LeetCodewingsfire/tree/master/1127-last-stone-weight) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/2022bit002/LeetCodewingsfire/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -188,4 +189,8 @@ This repository contain the question solved by me on the leetcode.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0014-longest-common-prefix) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
