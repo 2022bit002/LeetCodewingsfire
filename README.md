@@ -97,6 +97,7 @@ This repository contain the question solved by me on the leetcode.
 | [0014-longest-common-prefix](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0242-valid-anagram) |
+| [0812-rotate-string](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0812-rotate-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/2022bit002/LeetCodewingsfire/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/2022bit002/LeetCodewingsfire/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/2022bit002/LeetCodewingsfire/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -196,4 +197,8 @@ This repository contain the question solved by me on the leetcode.
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0724-find-pivot-index) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/2022bit002/LeetCodewingsfire/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
